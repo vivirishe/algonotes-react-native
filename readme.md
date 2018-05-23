@@ -8,7 +8,7 @@
 
 > A React Native boilerplate with Expo, Redux, React Navigation, Styled Components and some 💕 included.
 
-<img alt="React Native Boilerplate" src="assets/images/demo.png">
+<!-- <img alt="React Native Boilerplate" src="assets/images/demo.png"> -->
 
 ## Demo
 
@@ -41,9 +41,9 @@ $ exp android
 ```
 Open project in any [code](https://code.visualstudio.com/) editors and have fun 🍻
 
-## Contribution
-All PRs are welcome 💕
+<!-- ## Contribution
+All PRs are welcome 💕 -->
 
-## Contact
+<!-- ## Contact
 - [Facebook](https://facebook.com/bkdev98)
-- [Twitter](https://twitter.com/bkdev98)
+- [Twitter](https://twitter.com/bkdev98) -->
